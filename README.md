@@ -52,5 +52,5 @@ Well, after this short explanation why don't we go back to my brief presentation
     <br />
     From then until April 2021 I attended university and I tried get the degree to become a software engineer, but, unfortunately, due to some combination of events and difficulties, I dropped out. In the end I found my first job, and I became a software developer in <a href="https://www.fincantieri.com/it/">FINCANTIERI S.p.A.</a>, in which I'm still employed to this day.
     <br />
-
+    All of this time I kept improving myself and I kept following my path of self-learning. I got to know more of C and C++, I started learning and developing my own game engine (I'm still learning about it, not fully developing yet) and by the end of 2022 I bought my first 3D printer, allowing me to use my knowledge of Blender to bring to the real world my creations.
 </details>
