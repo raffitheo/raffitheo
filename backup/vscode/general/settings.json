@@ -1,0 +1,52 @@
+{
+	"diffEditor.ignoreTrimWhitespace": false,
+
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": false
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	//"editor.detectIndentation": false,
+	"editor.fontFamily": "JetBrainsMono NF",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 13,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.letterSpacing": 0.4,
+	//"editor.linkedEditing": true
+	"editor.minimap.autohide": true,
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.scale": 3,
+	"editor.mouseWheelZoom": true,
+	"editor.smoothScrolling": true,
+	"editor.stickyScroll.enabled": true,
+	"editor.stickyScroll.maxLineCount": 6,
+	"editor.tabSize": 4,
+	//"editor.unicodeHighlight.invisibleCharacters": false,
+	//"editor.wordWrap": "wordWrapColumn",
+
+	"javascript.suggest.autoImports": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+
+	"liveServer.settings.AdvanceCustomBrowserCmdLine": "brave",
+
+	"prettier.endOfLine": "auto",
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+
+	"settingsSync.ignoredSettings": [],
+
+	"tabnine.experimentalAutoImports": true,
+
+	"window.zoomLevel": 1,
+
+	"workbench.colorTheme": "Andromeda",
+	"workbench.iconTheme": "vscode-icons",
+
+	"[css]": {
+		"editor.suggest.insertMode": "replace"
+	},
+	"vsicons.dontShowNewVersionMessage": true,
+	"terminal.integrated.fontFamily": "CaskaydiaCove NF Mono",
+	"editor.accessibilitySupport": "off"
+}
