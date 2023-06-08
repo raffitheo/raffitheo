@@ -2,9 +2,10 @@
 	"recommendations": [
 		"aaron-bond.better-comments", // Better Comments
 		"adpyke.codesnap", // CodeSnap
-		"eliverlara.andromeda", // Andromeda
+		"chakrounanas.turbo-console-log", // Turbo Console Log
 		"dbaeumer.vscode-eslint", // ESLint
 		"eamodio.gitlens", // GitLens — Git supercharged
+		"eliverlara.andromeda", // Andromeda
 		"esbenp.prettier-vscode", // Prettier
 		"formulahendry.auto-rename-tag", // Auto Rename Tag
 		"htmlhint.vscode-htmlhint", // HTMLHint
@@ -14,6 +15,7 @@
 		"ms-vscode.cpptools", // C/C++
 		"ms-vscode.powershell", // PowerShell
 		"ms-vscode-remote.remote-wsl", // WSL
+		"oderwat.indent-rainbow", // indent-rainbow
 		"ritwickdey.liveserver", // Live Server
 		"slevesque.shader", // Shader languages support for VS Code
 		"syler.sass-indented", // Sass (.sass only)

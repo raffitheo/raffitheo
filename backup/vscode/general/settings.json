@@ -1,6 +1,7 @@
 {
 	"diffEditor.ignoreTrimWhitespace": false,
 
+	"editor.accessibilitySupport": "off",
 	"editor.codeActionsOnSave": {
 		"source.fixAll": true,
 		"source.organizeImports": false
@@ -21,7 +22,7 @@
 	"editor.smoothScrolling": true,
 	"editor.stickyScroll.enabled": true,
 	"editor.stickyScroll.maxLineCount": 6,
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
 	//"editor.unicodeHighlight.invisibleCharacters": false,
 	//"editor.wordWrap": "wordWrapColumn",
 
@@ -38,7 +39,14 @@
 
 	"tabnine.experimentalAutoImports": true,
 
+	"terminal.integrated.fontFamily": "CaskaydiaCove NF Mono",
+
+	"typescript.suggest.autoImports": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+
 	"window.zoomLevel": 1,
+
+	"vsicons.dontShowNewVersionMessage": true,
 
 	"workbench.colorTheme": "Andromeda",
 	"workbench.iconTheme": "vscode-icons",
@@ -46,7 +54,12 @@
 	"[css]": {
 		"editor.suggest.insertMode": "replace"
 	},
-	"vsicons.dontShowNewVersionMessage": true,
-	"terminal.integrated.fontFamily": "CaskaydiaCove NF Mono",
-	"editor.accessibilitySupport": "off"
+
+	"[javascript]": {
+		"editor.rulers": [120]
+	},
+
+	"[typescript]": {
+		"editor.rulers": [120]
+	}
 }
