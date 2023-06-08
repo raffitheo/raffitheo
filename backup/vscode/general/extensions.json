@@ -21,7 +21,8 @@
 		"syler.sass-indented", // Sass (.sass only)
 		"tabnine.tabnine-vscode", // Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more
 		"twxs.cmake", // CMake
-		"vscode-icons-team.vscode-icons", // vscode-icons
+		"vscode-icons-team.vscode-icons", // vscode-icons,
+		"wix.vscode-import-cost", // Import Cost
 		"yzhang.markdown-all-in-one" // Markdown All in One
 	]
 }
