@@ -1,4 +1,11 @@
 {
+	"codesnap.backgroundColor": "transparent",
+	"codesnap.realLineNumbers": true,
+	"codesnap.roundedCorners": true,
+	"codesnap.showWindowControls": false,
+	"codesnap.showWindowTitle": true,
+	"codesnap.transparentBackground": true,
+
 	"diffEditor.ignoreTrimWhitespace": false,
 
 	"editor.accessibilitySupport": "off",
@@ -59,7 +66,15 @@
 		"editor.rulers": [120]
 	},
 
+	"[javascriptreact]": {
+		"editor.rulers": [120]
+	},
+
 	"[typescript]": {
+		"editor.rulers": [120]
+	},
+
+	"[typescriptreact]": {
 		"editor.rulers": [120]
 	}
 }
