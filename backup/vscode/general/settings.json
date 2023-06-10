@@ -21,6 +21,7 @@
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
 	"editor.letterSpacing": 0.4,
+	"editor.linkedEditing": true,
 	//"editor.linkedEditing": true
 	"editor.minimap.autohide": true,
 	"editor.minimap.renderCharacters": false,
@@ -32,6 +33,10 @@
 	"editor.tabSize": 2,
 	//"editor.unicodeHighlight.invisibleCharacters": false,
 	//"editor.wordWrap": "wordWrapColumn",
+
+	"files.readonlyInclude": {
+		"node_modules/**": true
+	},
 
 	"javascript.suggest.autoImports": false,
 	"javascript.updateImportsOnFileMove.enabled": "always",
