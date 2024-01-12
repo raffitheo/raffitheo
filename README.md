@@ -19,7 +19,6 @@ Now that I've shed light on this, shall we return to my self-presentation?
 <img align="left" alt="C#" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
 <img align="left" alt="Java" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 <img align="left" alt="React" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="left" alt="Svelte" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
 <img align="left" alt="Ionic" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
 <img align="left" alt="NodeJS" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Git" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
