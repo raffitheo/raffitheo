@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/3D Artist)`**
 
-Hi there! Allow me to provide a brief introduction of myself. I go by the name Raffaele Valenti and at 26 years old, I proudly identify as an Italian digital craftsman.
+Hi there! Allow me to provide a brief introduction of myself. I go by the name Raffaele Valenti and at 25 years old, I proudly identify as an Italian digital craftsman.
 <br />
 Curious about what a digital craftsman does? Let me give you a quick overview. Traditionally, a craftsman is known for practicing a craft, essentially an artisan. While I may not excel in "hardware" craftsmanship like a carpenter working with wood, my forte lies in crafting within the digital realm. Hence, the term digital craftsman.
 <br />
