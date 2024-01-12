@@ -2,11 +2,11 @@
 
 **`Digital Craftsman (Developer/3D Artist)`**
 
-Hi there! Let me breafly introduce myself: my name is Raffaele Valenti and I'm a 24-years-old italian digital craftsman.
+Hi there! Allow me to provide a brief introduction of myself. I go by the name Raffaele Valenti and at 26 years old, I proudly identify as an Italian digital craftsman.
 <br />
-What's a digital craftsman you may ask? I'll be quick, but let's start form the beginning: a craftsman is someone who practises a craft; an artisan. I'm not particularly skilled on any "hardware" work like, for example, a carpenter who works with wood, but I have skills that allow me to craft in the digital world. Hence, the term digital craftsman.
+Curious about what a digital craftsman does? Let me give you a quick overview. Traditionally, a craftsman is known for practicing a craft, essentially an artisan. While I may not excel in "hardware" craftsmanship like a carpenter working with wood, my forte lies in crafting within the digital realm. Hence, the term digital craftsman.
 <br />
-Well, after this short explanation why don't we go back to my brief presentation?
+Now that I've shed light on this, shall we return to my self-presentation?
 
 ---
 
@@ -17,8 +17,6 @@ Well, after this short explanation why don't we go back to my brief presentation
 <img align="left" alt="HTML 5" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 <img align="left" alt="CSS 3" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 <img align="left" alt="C#" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-<img align="left" alt="C" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-<img align="left" alt="C++" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
 <img align="left" alt="Java" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 <img align="left" alt="React" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" alt="Svelte" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
@@ -29,6 +27,7 @@ Well, after this short explanation why don't we go back to my brief presentation
 <img align="left" alt="Linux" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="left" alt="VS Code" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Visual Studio" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+<img align="left" alt="Blender" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 <img align="left" alt="Blender" width="30px" style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
 
 <br />
@@ -38,19 +37,23 @@ Well, after this short explanation why don't we go back to my brief presentation
 
 <details>
     <summary><h3>👨‍💻 My Journey</h3></summary>
-    Technology has always attracted me, but I began my journey into the world of digital crafting in my teens.
+    Technology has always held a fascination for me, and my foray into the realm of digital crafting began in my teenage years.
     <br />
-    To this day I also very much enjoy video games and one day I decided to teach myself how to develop them. After a little search I stombled upon a game engine that absolutely no one knows called <a href="https://unity.com/">Unity</a> (of course I'm beeing sarcastic 😁) and I started learning it and the C# programming language, mostly through YouTube videos.
+    To this day, I find immense joy in video games, and at one point, I decided to delve into the world of game development. My exploration led me to the widely known game engine, <a href="https://unity.com/">Unity</a>, where I began learning the ropes of both Unity and the C# programming language primarily through insightful YouTube tutorials.
     <br />
-    After learing the basics of Unity and C# programming I started dipping my toes into other fields of game development, like art, both 2D and 3D. I learned how to use <a href="https://www.gimp.org/">GIMP</a> to create textures and <a href="https://www.blender.org/">Blender</a> to make hard surface 3D models. Later on I started learning more advanced programs like <a href="https://www.adobe.com/it/products/substance3d-painter.html">Substance Painter</a> and <a href="https://www.adobe.com/it/products/substance3d-designer.html">Substance Designer</a>.
+    After grasping the fundamentals of Unity and C#, I expanded my horizons within game development, delving into artistic aspects such as 2D and 3D art. I mastered tools like <a href="https://www.gimp.org/">GIMP</a> for texture creation and <a href="https://www.blender.org/">Blender</a> for crafting intricate 3D models. Progressing further, I acquainted myself with advanced programs like <a href="https://www.adobe.com/it/products/substance3d-painter.html">Substance Painter</a> and <a href="https://www.adobe.com/it/products/substance3d-designer.html">Substance Designer</a>.
     <br />
-    A couple of years later I became very hooked on <a href="https://www.bohemia.net/">Bohemia Interactive</a>'s video game <a href="https://arma3.com/">Arma 3</a> and I got into modding. I was pretty good at it and I got quite famous in the italian community.
     <br />
-    While I was learning game development related technologies, I also learned web development, first plain HTML5, CSS3 and JavaScript, then switching to frameworks like <a href="https://it.reactjs.org/">React</a>, <a href="https://ionicframework.com/">Ionic</a> and bits of <a href="https://angular.io/">Angular</a>.
+    Concurrently, alongside game development, I ventured into web development, starting with the basics of HTML5, CSS3, and JavaScript, later transitioning to frameworks like <a href="https://it.reactjs.org/">React</a>, <a href="https://ionicframework.com/">Ionic</a>, and snippets of <a href="https://angular.io/">Angular</a>.
     <br />
-    In October 2017, after graduating from highschool, I started attending a 2-years-long post-diploma course to become a biomedical informatics technician. During those two years I met some amazing people and I developed even more the skill that I already had and aquired some new ones. The course had lessions for more practical knowledge, like basics of C and more in-depth Java and web development, Android apps development, databases and finally, my favourite one, AR, VR and mixed reality development, but also less practical ones like mathematics, networking, laws and regulations (mostly for medical equipment) and software engineering. I graduated in mid 2019 at the top of my class.
     <br />
-    From then until April 2021 I attended university and I tried get the degree to become a software engineer, but, unfortunately, due to some combination of events and difficulties, I dropped out. In the end I found my first job, and I became a software developer in <a href="https://www.fincantieri.com/it/">FINCANTIERI S.p.A.</a>, in which I'm still employed to this day.
+    A few years later, my passion led me to <a href="https://www.bohemia.net/">Bohemia Interactive</a>'s game <a href="https://arma3.com/">Arma 3</a>, where I ventured into modding and gained recognition within the Italian gaming community.
     <br />
-    All of this time I kept improving myself and I kept following my path of self-learning. I got to know more of C and C++, I started learning and developing my own game engine (I'm still learning about it, not fully developing yet) and by the end of 2022 I bought my first 3D printer, allowing me to use my knowledge of Blender to bring to the real world my creations.
+    <br />
+    In October 2017, having graduated from high school, I embarked on a two-year post-diploma course to become a biomedical informatics technician. The program enriched my knowledge in practical areas like C, Java, web development, Android app development, databases, and my favorite, AR, VR, and mixed reality development. The curriculum also covered theoretical subjects such as mathematics, networking, laws and regulations (primarily for medical equipment), and software engineering. Graduating at the top of my class in mid-2019, I felt a sense of accomplishment.
+    <br />
+    Subsequently, until April 2021, I pursued a university degree in software engineering. Unfortunately, due to a combination of events and challenges, I made the difficult decision to discontinue my studies. However, this marked the beginning of my professional journey as I secured my first job as a software developer at <a href="https://www.fincantieri.com/it/">FINCANTIERI S.p.A.</a>, where I am still employed today.
+    <br />
+    <br />
+    Throughout this period, I continually honed my skills and pursued self-improvement. By the end of 2022, I acquired my first 3D printer, enabling me to materialize my Blender creations in the tangible world.
 </details>
