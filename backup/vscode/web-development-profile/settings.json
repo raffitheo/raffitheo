@@ -1,7 +1,7 @@
 {
 	"workbench.settings.editor": "json" /* Open JSON editor for settings. */,
 	// Theme
-	"workbench.colorTheme": "Aura Dark (Soft Text)" /* VSCode theme. */,
+	"workbench.colorTheme": "Aura Dark" /* VSCode theme. */,
 	"workbench.iconTheme": "moxer-icons" /* Icons theme. */,
 	// Fonts
 	"editor.fontFamily": "JetBrainsMono NF" /* Font for editor. */,
