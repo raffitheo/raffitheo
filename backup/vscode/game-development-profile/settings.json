@@ -6,7 +6,7 @@
 	// Fonts
 	"editor.fontFamily": "JetBrainsMono NF" /* Font for editor. */,
 	"scm.inputFontFamily": "JetBrainsMono NF",
-	"terminal.integrated.fontFamily": "JetBrainsMono NF",
+	"terminal.integrated.fontFamily": "CaskaydiaCove NF Mono",
 	"chat.editor.fontFamily": "JetBrainsMono NF",
 	"debug.console.fontFamily": "JetBrainsMono NF",
 	"editor.codeLensFontFamily": "JetBrainsMono NF",

@@ -6,7 +6,7 @@
 	// Fonts
 	"editor.fontFamily": "JetBrainsMono NF" /* Font for editor. */,
 	"scm.inputFontFamaily": "JetBrainsMono NF",
-	"terminal.integrated.fontFamily": "JetBrainsMono NF",
+	"terminal.integrated.fontFamily": "CaskaydiaCove NF Mono",
 	"chat.editor.fontFamily": "JetBrainsMono NF",
 	"debug.console.fontFamily": "JetBrainsMono NF",
 	"editor.codeLensFontFamily": "JetBrainsMono NF",
@@ -1106,18 +1106,26 @@
 	},
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [120]
+		"editor.rulers": [
+			120
+		]
 	},
 	"[javascriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [120]
+		"editor.rulers": [
+			120
+		]
 	},
 	"[typescript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [120]
+		"editor.rulers": [
+			120
+		]
 	},
 	"[typescriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [120]
+		"editor.rulers": [
+			120
+		]
 	}
 }
