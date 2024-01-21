@@ -1087,8 +1087,7 @@
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
 	//"editor.unicodeHighlight.invisibleCharacters": false,
-	//"editor.wordWrap": "wordWrapColumn",
-	"graphite.commandPath": "C:\\Users\\raffa\\AppData\\Roaming\\nvm\\v20.11.0\\gt",
+	//"editor.wordWrap": "wordWrapColumn",a
 	"[csharp]": {
 		"editor.rulers": [
 			150

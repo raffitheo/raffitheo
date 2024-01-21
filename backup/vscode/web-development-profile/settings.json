@@ -1089,8 +1089,7 @@
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
 	// //"editor.unicodeHighlight.invisibleCharacters": false,
-	// //"editor.wordWrap": "wordWrapColumn",
-	"graphite.commandPath": "C:\\Users\\raffa\\AppData\\Roaming\\nvm\\v20.11.0\\gt",
+	// //"editor.wordWrap": "wordWrapColumn",a
 	"javascript.suggest.autoImports": false,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	"liveServer.settings.AdvanceCustomBrowserCmdLine": "brave",
@@ -1106,26 +1105,18 @@
 	},
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [
-			120
-		]
+		"editor.rulers": [120]
 	},
 	"[javascriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [
-			120
-		]
+		"editor.rulers": [120]
 	},
 	"[typescript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [
-			120
-		]
+		"editor.rulers": [120]
 	},
 	"[typescriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		"editor.rulers": [
-			120
-		]
+		"editor.rulers": [120]
 	}
 }
