@@ -38,9 +38,6 @@
 	},
 	// Custom CSS
 	"apc.stylesheet": {
-		".sidebar > .composite": "height: 12px !important",
-		".title-label": "display: none !important",
-		".title-actions": "display: none !important",
 		".titlebar-center": "display: none !important",
 		".inline-tabs-placeholder": "display: none !important",
 		".split-view-view .visible": "background-color: #110f17 !important"
