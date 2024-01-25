@@ -85,12 +85,7 @@
 	"editor.smoothScrolling": true,
 	"editor.stickyScroll.enabled": true,
 	"editor.stickyScroll.maxLineCount": 5,
-	// Neovim
-	"vscode-neovim.neovimExecutablePaths.win32": "C:\\Program Files\\Neovim\\bin\\nvim.exe",
-	"vscode-neovim.neovimInitVimPaths.win32": "C:\\Users\\raffa\\AppData\\Roaming\\Code\\User\\init.vim",
-	"extensions.experimental.affinity": {
-		"asvetliakov.vscode-neovim": 1
-	},
+	// Which key
 	"whichkey.sortOrder": "alphabetically",
 	"whichkey.delay": 0,
 	"whichkey.bindings": [
