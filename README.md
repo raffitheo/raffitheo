@@ -56,3 +56,7 @@ Now that I've shed light on this, shall we return to my self-presentation?
     <br />
     Throughout this period, I continually honed my skills and pursued self-improvement. By the end of 2022, I acquired my first 3D printer, enabling me to materialize my Blender creations in the tangible world.
 </details>
+
+---
+
+[![roadmap.sh](https://roadmap.sh/card/wide/665b802ab998f3b3c73a4235?variant=dark)](https://roadmap.sh)
