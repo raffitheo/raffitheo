@@ -34,18 +34,22 @@
             "type": "remainingProfiles"
         }
     ],
-    "profiles": {
-        "defaults": {
+    "profiles": 
+    {
+        "defaults": 
+        {
             "colorScheme": "Campbell",
-            "font": {
-                "face": "CaskaydiaCove NF Mono"
+            "font": 
+            {
+                "face": "CaskaydiaCove Nerd Font Mono"
             },
             "historySize": 12000,
             "opacity": 70,
             "scrollbarState": "visible",
             "useAcrylic": true
         },
-        "list": [
+        "list": 
+        [
             {
                 "colorScheme": "Campbell Powershell",
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
@@ -74,13 +78,6 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
-                "hidden": false,
-                "name": "Git Bash",
-                "padding": "0",
-                "source": "Git"
-            },
-            {
                 "colorScheme": "Ubuntu Legit",
                 "commandline": "wsl.exe -d Ubuntu",
                 "guid": "{a3e42b47-3b19-42b6-b46a-3f9436d9f658}",
@@ -88,22 +85,11 @@
                 "name": "Ubuntu",
                 "padding": "0",
                 "startingDirectory": "\\\\wsl.localhost\\Ubuntu\\home\\raffa"
-            },
-            {
-                "guid": "{acb877dc-8444-5940-bf78-d817675f1e55}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 2022",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{27826dd5-dc9b-5fcf-965f-6791ee317357}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2022",
-                "source": "Windows.Terminal.VisualStudio"
             }
         ]
     },
-    "schemes": [
+    "schemes": 
+    [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",

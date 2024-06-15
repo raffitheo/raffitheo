@@ -2,6 +2,6 @@
     {
         "key": "space",
         "command": "whichkey.show",
-        "when": "neovim.mode != 'insert' && !inputFocus"
+        "when": "!inputFocus"
     }
 ]
