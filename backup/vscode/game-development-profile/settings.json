@@ -23,25 +23,6 @@
 	"window.commandCenter": false,
 	"editor.scrollbar.vertical": "auto",
 	"editor.scrollbar.horizontal": "auto",
-	// APC
-	"apc.activityBar": {
-		"position": "bottom",
-		"hideSettings": true,
-		"size": 28
-	},
-	"apc.font.family": "JetBrainsMono NF",
-	"apc.monospace.font.family": "JetBrainsMono NF",
-	"apc.statusBar": {
-		"position": "editor-bottom",
-		"height": 28,
-		"fontSize": 12
-	},
-	// Custom CSS
-	"apc.stylesheet": {
-		".titlebar-center": "display: none !important",
-		".inline-tabs-placeholder": "display: none !important",
-		".split-view-view .visible": "background-color: #110f17 !important"
-	},
 	// Aura theme customization
 	"workbench.colorCustomizations": {
 		"editor.background": "#110f17",
@@ -1075,14 +1056,9 @@
 		"source.fixAll": "explicit",
 		"source.organizeImports": "never"
 	},
-	//"editor.detectIndentation": false,
+	// //"editor.detectIndentation": false,
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
-	//"editor.unicodeHighlight.invisibleCharacters": false,
-	//"editor.wordWrap": "wordWrapColumn",a
-	"[csharp]": {
-		"editor.rulers": [
-			150
-		]
-	}
+	// //"editor.unicodeHighlight.invisibleCharacters": false,
+	// //"editor.wordWrap": "wordWrapColumn",
 }
