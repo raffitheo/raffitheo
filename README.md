@@ -51,7 +51,7 @@ Now that I've shed light on this, shall we return to my self-presentation?
     <br />
     In October 2017, having graduated from high school, I embarked on a two-year post-diploma course to become a biomedical informatics technician. The program enriched my knowledge in practical areas like C, Java, web development, Android app development, databases, and my favorite, AR, VR, and mixed reality development. The curriculum also covered theoretical subjects such as mathematics, networking, laws and regulations (primarily for medical equipment), and software engineering. Graduating at the top of my class in mid-2019, I felt a sense of accomplishment.
     <br />
-    Subsequently, until April 2021, I pursued a university degree in software engineering. Unfortunately, due to a combination of events and challenges, I made the difficult decision to discontinue my studies. However, this marked the beginning of my professional journey as I secured my first job as a software developer at <a href="https://www.fincantieri.com/it/">FINCANTIERI S.p.A.</a>, where I am still employed today.
+    Subsequently, until April 2021, I pursued a university degree in software engineering. Unfortunately, due to a combination of events and challenges, I made the difficult decision to discontinue my studies. However, this marked the beginning of my professional journey as I secured my first job as a software developer at <a href="https://www.fincantieri.com/it/">FINCANTIERI S.p.A.</a>.
     <br />
     <br />
     Throughout this period, I continually honed my skills and pursued self-improvement. By the end of 2022, I acquired my first 3D printer, enabling me to materialize my Blender creations in the tangible world.
